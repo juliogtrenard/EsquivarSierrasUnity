@@ -32,3 +32,7 @@
 3. Pulsa el botón Play en el editor de Unity para jugar directamente.
 
 ## 🖼️ Capturas de Pantalla
+
+https://github.com/juliogtrenard/EsquivarSierrasUnity/blob/master/Capturas/menu.png "Menú del juego"
+
+https://github.com/juliogtrenard/EsquivarSierrasUnity/blob/master/Capturas/juego.png "Juego"
