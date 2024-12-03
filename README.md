@@ -30,3 +30,5 @@
 2. Abre el proyecto en Unity.
 
 3. Pulsa el botón Play en el editor de Unity para jugar directamente.
+
+## 🖼️ Capturas de Pantalla
