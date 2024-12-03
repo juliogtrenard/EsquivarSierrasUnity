@@ -33,6 +33,6 @@
 
 ## 🖼️ Capturas de Pantalla
 
-![alt text](https://github.com/juliogtrenard/EsquivarSierrasUnity/blob/master/Capturas/menu.png)
+<img src="https://github.com/juliogtrenard/EsquivarSierrasUnity/blob/master/Capturas/menu.png" alt="Menú del juego" align="left"/>
 
-![alt text](https://github.com/juliogtrenard/EsquivarSierrasUnity/blob/master/Capturas/juego.png)
+<img src="https://github.com/juliogtrenard/EsquivarSierrasUnity/blob/master/Capturas/juego.png" alt="Juego" align="right"/>
