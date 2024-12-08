@@ -2,14 +2,21 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+// Controla el jugador
 public class PlayerController : MonoBehaviour
 {
+    // Referencias a componentes del jugador
     Rigidbody2D rb;
     Animator animator;
     SpriteRenderer sprite;
+
+    // Velocidad de movimiento
     public float velocidad = 3f;
+
+    // Si se esta moviendo o no
     public bool isMoving;
 
+    // Iniciar variables asociandolas a cada componente
     private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -17,17 +24,7 @@ public class PlayerController : MonoBehaviour
         animator = rb.GetComponent<Animator>();
     }
 
-    // Start is called before the first frame update
-    void Start()
-    {        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-
-    }
-
+    // Mover el persnaje en la direccion donde se presione la pantalla ademas de hacerle flip a la imagen
     private void FixedUpdate()
     {
         isMoving = false;
